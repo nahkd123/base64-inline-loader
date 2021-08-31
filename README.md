@@ -1,3 +1,9 @@
+# Forked version of "base64-inline-loader"
+This version is guaranteed to works with Webpack 5.x (and higher). The original repository also having pending pull request,
+and I'll archive this repository if that pull request is accepted. (if I have time ofc)
+
+---
+
 # base64-inline-loader
 
 > Base64 loader for Webpack
